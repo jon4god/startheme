@@ -1,12 +1,10 @@
 <?php return array (
 
   'display_name' => array (
-    'en' => 'Starcoms',
-    'ru' => 'Starcoms',
+    'en' => 'Startheme',
+    'ru' => 'Startheme',
   ),
 
   'max_image_width' => '768',
-  
-  //'based_on' => 'classical',
 
 ); ?>
