@@ -1,3 +1,5 @@
+<?php _JS ('startheme') ?>
+
 <div class="common">
 <div class="level">
 <div class="header">
@@ -107,5 +109,3 @@
 </div>
 </div>
 </div>
-
-<?php _JS ('fresh') ?>
